@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="puzi.compa">
+
+
+
+    <application
+        android:name=".jigsaw.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/icon_launcher"
+        android:label="S Puzzle"
+
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SlidingPuzzle">
+
+
+
+        <activity android:name=".MainActivity"   android:screenOrientation="portrait" >
+        </activity>
+
+
+        <activity
+            android:name="puzi.compa.jigsaw.activity.GameActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+
+        <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/CropImageActivityTheme"/>
+
+
+        <activity
+            android:name="puzi.compa.jigsaw.activity.ChooseActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
+
+    </application>
+
+</manifest>

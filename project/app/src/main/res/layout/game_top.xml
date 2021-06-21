@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+
+    android:padding="10dp"
+    >
+
+        <TextView
+            style="@style/TextView.Label"
+            android:text="@string/time_count"
+            android:paddingRight="10dp"
+            />
+
+        <TextView
+            android:id="@+id/tv_time"
+            style="@style/TextView.LabelSecondary"
+            android:text="@string/default_time"
+            android:paddingRight="20dp"
+            />
+
+
+
+        <TextView
+            style="@style/TextView.Label"
+            android:paddingRight="10dp"
+            android:text="@string/step_count"/>
+
+        <TextView
+            android:id="@+id/tv_step"
+            style="@style/TextView.LabelSecondary"
+            android:text="@string/default_step"/>
+
+
+</LinearLayout>

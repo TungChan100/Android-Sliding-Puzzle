@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Puzzle</string>
+    <string name="time_count">Time</string>
+    <string name="step_count">Steps</string>
+    <string name="change_picture">New Game</string>
+    <string name="restart">Reset</string>
+    <string name="look_up_original_picture">Reveal</string>
+    <string name="win_prompt_format">Finished! Spent %1$s, moved %2$s steps.</string>
+    <string name="confirm_restart_msg">Are you sure to reset?</string>
+    <string name="confirm">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose_picture_to_start">Start New Game</string>
+    <string name="choose_from_gallery">Choose From Gallery</string>
+
+    <string name="bottom_button_trans_name" translatable="false">bottom button trans</string>
+    <string name="crop">Crop</string>
+    <string name="not_started">You haven\'t started yet.</string>
+    <string name="default_time">00:00</string>
+    <string name="default_step">0</string>
+</resources>

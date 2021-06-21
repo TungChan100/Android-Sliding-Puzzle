@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">3dp</dimen>
+    <dimen name="activity_vertical_margin">3dp</dimen>
+
+    <dimen name="title_margin_left">2dp</dimen>
+    <dimen name="label_margin">2dp</dimen>
+    <dimen name="board_padding">2dp</dimen>
+    <dimen name="brick_divider_width">1dp</dimen>
+</resources>

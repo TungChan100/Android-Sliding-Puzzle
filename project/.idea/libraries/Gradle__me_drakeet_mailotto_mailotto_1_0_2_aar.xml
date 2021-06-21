@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: me.drakeet.mailotto:mailotto:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f4c4321477a296a590db50cd6073b7cb/mailotto-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f4c4321477a296a590db50cd6073b7cb/mailotto-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f4c4321477a296a590db50cd6073b7cb/mailotto-1.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.drakeet.mailotto/mailotto/1.0.2/7d1a9ee090b92d905ccee6d91b43fa49acaa8dee/mailotto-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.drakeet.mailotto/mailotto/1.0.2/ef1e540bd35bc46864f8869d851cdeb648c97f92/mailotto-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
