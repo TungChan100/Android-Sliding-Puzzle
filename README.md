@@ -11,6 +11,7 @@ All images are public domain. They are downloaded from https://publicdomainvecto
 
 ## TODO
 - [ ] Add Svg format support
+- [ ] Add More Categories
 - [ ] Custom Background Color
 - [ ] Sound
 - [ ] Improve random algorithm
