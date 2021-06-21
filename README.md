@@ -1,6 +1,8 @@
 ## Android-Sliding-Puzzle
 Simple Sliding Puzzle for Android, This project bases on https://github.com/richardchien-archive/jigsaw-android.
 
+## Images
+All images are public domain. They are downloaded from https://publicdomainvectors.org/ and https://freesvg.org/.
 
 ## Building
 Android Studio 4.1
