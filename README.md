@@ -10,7 +10,10 @@ Target SDK: 30
 
 ## Screen shot
 ![alt text](Screenshots/Screenshot1.jpg/)
+
 ![alt text](Screenshots/Screenshot2.jpg/)
+
 ![alt text](Screenshots/Screenshot3.jpg/)
+
 ![alt text](Screenshots/Screenshot4.jpg/)
 
