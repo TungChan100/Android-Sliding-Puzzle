@@ -27,3 +27,10 @@ Target SDK: 30
 
 ![alt text](Screenshots/Screenshot4.jpg/)
 
+
+## TODO
+
+- [ ] Add Svg format support
+- [ ] Change Background Color
+- [ ] Sound
+- [ ] Improve random algorithm
