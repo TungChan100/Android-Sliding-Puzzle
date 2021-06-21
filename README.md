@@ -4,7 +4,9 @@ Simple Sliding Puzzle for Android, This project bases on https://github.com/rich
 
 ## Building
 Android Studio 4.1
+
 Mininum SDK: 18
+
 Target SDK: 30 
 
 
