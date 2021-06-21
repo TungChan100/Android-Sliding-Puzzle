@@ -5,11 +5,15 @@ Simple Sliding Puzzle for Android, This project bases on https://github.com/rich
 All images are public domain. They are downloaded from https://publicdomainvectors.org/ and https://freesvg.org/.
 
 ## Building
-Android Studio 4.1
+- Android Studio 4.1
+- Mininum SDK: 18
+- Target SDK: 30 
 
-Mininum SDK: 18
-
-Target SDK: 30 
+## TODO
+- [ ] Add Svg format support
+- [ ] Custom Background Color
+- [ ] Sound
+- [ ] Improve random algorithm
 
 
 ## Screen shot
@@ -28,9 +32,3 @@ Target SDK: 30
 ![alt text](Screenshots/Screenshot4.jpg/)
 
 
-## TODO
-
-- [ ] Add Svg format support
-- [ ] Change Background Color
-- [ ] Sound
-- [ ] Improve random algorithm
